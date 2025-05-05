@@ -1,0 +1,25 @@
+body{
+    background-color: #f6f8fa !important;
+}
+input{
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    width: 97%;
+    height: 55px;
+    border: 0;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 50px !important;
+    line-height: inherit;
+}
+ .search-button {
+    font-weight: 900;
+    position: absolute;
+    float: right;
+    margin-left: -40px;
+    font-size: 20px;
+    margin-top: 70px;
+    border: 0;
+    background-color: white;
+}

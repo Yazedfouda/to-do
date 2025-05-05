@@ -1,0 +1,15 @@
+{
+    "name": "hp/to-do-list",
+    "autoload": {
+        "psr-4": {
+            "Hp\\ToDoList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yazed",
+            "email": "166914157+Yazedfouda@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
